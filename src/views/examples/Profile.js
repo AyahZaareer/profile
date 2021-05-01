@@ -147,9 +147,9 @@ class Profile extends React.Component {
                          My name is Ayah and I'm Communication Engineer.I graduated form Yarmouk University in 2017.
 
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
-                        </a>
+                        </a> */}
                       </Col>
                     </Row>
                   </div>
