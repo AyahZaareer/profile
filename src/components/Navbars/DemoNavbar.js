@@ -182,10 +182,10 @@ class DemoNavbar extends React.Component {
                       <DropdownItem to="/landing-page" tag={Link}>
                         Portfolio
                       </DropdownItem>
-                      <DropdownItem to="/" tag={Link}>
+                      <DropdownItem to="/profile-page" tag={Link}>
                         Profile
                       </DropdownItem>
-                     
+
                     </DropdownMenu>
                   </UncontrolledDropdown>
                 </Nav>
@@ -196,6 +196,7 @@ class DemoNavbar extends React.Component {
                       href="https://www.facebook.com/ayah.zaareer/"
                       id="tooltip333589074"
                       target="_blank"
+                      size="l"
                     >
                       <i className="fa fa-facebook-square" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
@@ -231,7 +232,7 @@ class DemoNavbar extends React.Component {
                     >
                       <i className="fa fa-linkedin-square" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
-                       Linkedin
+                        Linkedin
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip184698705">

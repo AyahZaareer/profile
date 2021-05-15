@@ -87,21 +87,21 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
-                          onClick={e => e.preventDefault()}
-                          size="sm"
+                          href="https://drive.google.com/file/d/1UceHAnIa5LX8m627-pe6OI0BnWE6T4SJ/view?usp=sharing"
+                          // onClick={e => e.preventDefault()}
+                          size="l"
                         >
-                          Connect
+                          Resume
                         </Button>
-                        <Button
+                        {/* <Button
                           className="float-right"
                           color="default"
-                          href="#pablo"
+                          href="ayahzaareer5@gmail.com"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
                           Message
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
@@ -123,7 +123,7 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      
+
                       Ayah Zaareer{" "}
                       <span className="font-weight-light">, 27</span>
                     </h3>
@@ -144,7 +144,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                         My name is Ayah and I'm Communication Engineer.I graduated form Yarmouk University in 2017.
+                          My name is Ayah and I'm Communication Engineer.I graduated form Yarmouk University in 2017.
 
                         </p>
                         {/* <a href="#pablo" onClick={e => e.preventDefault()}>

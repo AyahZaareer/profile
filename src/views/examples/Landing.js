@@ -86,12 +86,12 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                       Ayah Zaareer{" "}
+                        Ayah Zaareer{" "}
                         <span>Communication Engineer/  Full-Stack Developer</span>
                       </h1>
                       <p className="lead text-white">
-                       
-                      I am so excited about what the future holds in tech- World, especially as we are on the edge of breaking Moore's law. So much capabilities and so much potential ahead.
+
+                        I am so excited about what the future holds in tech- World, especially as we are on the edge of breaking Moore's law. So much capabilities and so much potential ahead.
                       </p>
                       {/* <div className="btn-wrapper">
                         <Button
@@ -153,14 +153,12 @@ class Landing extends React.Component {
                           </div> */}
                           <div><img src={promo1} width={'280.98px'}></img></div>
                           <h6 className="text-primary text-uppercase">
-                          Cookie Stand
- 
+                            Cookie Stand
+                            
 
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            On this website, the user can get to know more about The salmon cookie store, as this site displays information about the sales of this store every hour, in addition to the location of other branches of this store.
                           </p>
                           {/* <div>
                             <Badge color="primary" pill className="mr-1">
@@ -177,7 +175,7 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="primary"
                             href="https://ayahzaareer.github.io/cookie-stand-2/"
-                            // onClick={e => e.preventDefault()}
+                          // onClick={e => e.preventDefault()}
                           >
                             Learn more
                           </Button>
@@ -192,12 +190,10 @@ class Landing extends React.Component {
                           </div> */}
                           <div><img src={promo2} width={'290.98px'}></img></div>
                           <h6 className="text-success text-uppercase">
-                          Chocolate Pizza
+                            Chocolate Pizza
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          An Interesting Challenge website, to build the same displayed image,  same layouts and style, in a strict time.
                           </p>
                           {/* <div>
                             <Badge color="success" pill className="mr-1">
@@ -214,7 +210,7 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="success"
                             href=" https://ayahzaareer.github.io/chocolate--pizza/"
-                            // onClick={e => e.preventDefault()}
+                          // onClick={e => e.preventDefault()}
                           >
                             Learn more
                           </Button>
@@ -229,12 +225,10 @@ class Landing extends React.Component {
                           </div> */}
                           <div><img src={promo3} width={'290.98px'}></img></div>
                           <h6 className="text-warning text-uppercase">
-                          Porject 201
+                            Porject 201
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Our website aims to help the tourists to plan their trip to Jordan based on previous reviews from other tourists, showing the highest recommended places in Jordan, saving them money and time, and providing the best tourism and cultural experience for them.
                           </p>
                           {/* <div>
                             <Badge color="warning" pill className="mr-1">
@@ -251,18 +245,18 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="warning"
                             href="https://group-7-201.github.io/5aleha-3alena/"
-                            onClick={e => e.preventDefault()}
+                            // onClick={e => e.preventDefault()}
                           >
                             Learn more
                           </Button>
                         </CardBody>
-                       
+
                       </Card>
-                      
-                      
-                      
+
+
+
                     </Col>
-                    
+
                   </Row>
                 </Col>
               </Row>
@@ -277,12 +271,10 @@ class Landing extends React.Component {
                           </div> */}
                           <div><img src={promo4} width={'290.98px'}></img></div>
                           <h6 className="text-primary text-uppercase">
-                           Porject 201
+                            Porject 201
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Our website aims to help the tourists to plan their trip to Jordan based on previous reviews from other tourists, showing the highest recommended places in Jordan, saving them money and time, and providing the best tourism and cultural experience for them.
                           </p>
                           {/* <div>
                             <Badge color="primary" pill className="mr-1">
@@ -299,7 +291,7 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="primary"
                             href="https://group-7-201.github.io/5aleha-3alena/"
-                            // onClick={e => e.preventDefault()}
+                          // onClick={e => e.preventDefault()}
                           >
                             Learn more
                           </Button>
@@ -349,7 +341,7 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                          Poroject 401
+                            Poroject 401
                           </h6>
                           <p className="description mt-3">
                             Argon is a great free UI package based on Bootstrap
@@ -376,13 +368,13 @@ class Landing extends React.Component {
                             Learn more
                           </Button>
                         </CardBody>
-                       
+
                       </Card>
-                      
-                      
-                      
+
+
+
                     </Col>
-                    
+
                   </Row>
                 </Col>
               </Row>
@@ -624,7 +616,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
             {/* SVG separator */}
-            {/* <div className="separator separator-bottom separator-skew zindex-100">
+          {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -639,7 +631,7 @@ class Landing extends React.Component {
                 />
               </svg>
             </div>
-          // </section> */} 
+          // </section> */}
           {/* <section className="section section-lg">
             <Container>
               <Row className="justify-content-center text-center mb-lg">
@@ -904,7 +896,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
             {/* SVG separator */}
-            {/* <div className="separator separator-bottom separator-skew zindex-100">
+          {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -994,7 +986,7 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section> */} 
+          </section> */}
           {/* <Download /> */}
         </main>
         <CardsFooter />
